@@ -32,7 +32,7 @@ Cuando el usuario hace clic en una ruta, el código resalta esa ruta cambiando s
 
 ## Créditos
 
-Este mapa fue creado por [OnfeVS] como parte de un proyecto de [Personal]. La información de las rutas se obtuvo de la API de GEOSERVICIO (https://services6.arcgis.com/PtpS85InlUyG2Gqs/arcgis/rest/services/Rutas_Servicio_Publico/FeatureServer/0/query?outFields=*&where=1%3D1) y se procesó utilizando JavaScript. Los íconos utilizados en el footer son de [FonAwesome].
+Este mapa fue creado por [OnfeVS] como parte de un proyecto de [Personal]. La información de las rutas se obtuvo de la API de GEOSERVICIO (https://services6.arcgis.com/PtpS85InlUyG2Gqs/arcgis/rest/services/Rutas_Servicio_Publico/FeatureServer/0/query?outFields=*&where=1%3D1) y se procesó utilizando JavaScript. Los íconos utilizados en el footer son de [[FontAwesome](https://fontawesome.com/)].
 
 ## Licencia
 
